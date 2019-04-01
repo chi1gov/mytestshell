@@ -1,3 +1,2 @@
 #!/bin/sh 
-date
-uname -a
+df -h
